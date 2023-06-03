@@ -16,7 +16,7 @@
 
 #
 
-#### <h3 align="center">**That project was developed with** </strong></h3>
+#### <h3 align="center">**This project was developed with** </strong></h3>
 
 #### <h3 align="center">HTML | CSS | JavaScript | Figma | Git | GitHub </h3>
 
